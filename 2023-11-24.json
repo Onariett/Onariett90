@@ -1,0 +1,26 @@
+{
+  "name": "Robert Craig",
+  "age": 65,
+  "address": {
+    "street": "Nojdaj Street",
+    "city": "Ezamuzo",
+    "state": "NV",
+    "zip": "33720"
+  },
+  "contact": {
+    "phone": "(871) 750-6688",
+    "servicePhone": "800395749"
+  },
+  "birthday": "2003-02-18T10:29:39.232Z",
+  "ip": "120.192.149.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Bezifaho pimog wocawoece leceji is jod acrezon redi joomaju ozkalkog jagorni tekez efi zeloit ug uku. Go duzeta fe ojowi liju vebuzuh wu zovofil ofsaili jipropar wuogeca pe kajjec jubi. Rezes pulga etewi tubmuwda do ciwuji mioco esaob mopwu osehikut ikonebrug ru sa ca lolva wosode.",
+    "bio": "Takuj fugehsa fi ilajul pouhi odewator tow abi jirwetuz dajuh riheh wuz zuwzav weacpu zutujgug levcerma. Fudeztir veguok ecli panmo ve mahjumif ja ij bud ki izpuncuw boseg zefdad ke pe vutho ninokouz. Ira uwebak cav moposwi setafob wablopce tijajbof ruge keftucum ta avuvog ji sofwu me ura bo leovevi. Imi faipfim nako jejikula hukgabov fog jav re kamzut zazosi kulezas gus culapeor uparoh jeela di oti."
+  },
+  "apiKey": "9d6a697de6797cb9ec24d441261dfb52358e2d8dbf8d2acc0a1c6e9b96e3241d",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
