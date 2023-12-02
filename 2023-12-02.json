@@ -1,0 +1,26 @@
+{
+  "name": "Mike Lewis",
+  "age": 39,
+  "address": {
+    "street": "Tawco Pike",
+    "city": "Kadurkom",
+    "state": "SC",
+    "zip": "94013"
+  },
+  "contact": {
+    "phone": "(211) 557-9685",
+    "servicePhone": "800757256"
+  },
+  "birthday": "1985-08-22T20:22:43.536Z",
+  "ip": "16.70.91.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Nek raf sez du gozosfun ja ro gu eco zovvama dice kapija. Kagomo vunra set sadugse jiguvhi pilajig itacukot rico afdibav re merojeho bukot ceetono hi ha oco. Sidevopod zewto hoak aji wemakuv melefobo ad dinpevlal suw rifhasuli sohot usjegci paiz.",
+    "bio": "Kohcegu nude ge habce ujihij lu kewgurwes kutu gihe sa nacuce furemag bekji anocuij lefos sede. Keazofa hake opdik fuj emediti zudgo ludivpur du munogfu mam suwuw zeganij pug bi wilre fomzeh teananu ogevi. Navi sa laucwo ada mon ewsubow wicsom ceaj hempinri fuku fafhe nisew husco te. Viojeaz vejunib ca pegwandic vakow unu hu te hilesatid pa met wujcaka zacafat isewu. Arsap hu jatoma amerabul davuc jopnalcob wi nohmofin egamovmo tu jop hepenje cigeozo regil hitgeclu jirvovsav soricla hokzu. Ejusa fubzocsa aszuva gercar dog acosvin paid sadov pognuga adrascoz tirefama sob gefa go vel fenmadav neteh."
+  },
+  "apiKey": "c31fc26726b2269193a14828fd47b145fe8717f4fe1822945497f4f3e6d163bd",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
