@@ -1,0 +1,26 @@
+{
+  "name": "Helen Summers",
+  "age": 46,
+  "address": {
+    "street": "Homeh Grove",
+    "city": "Koocucik",
+    "state": "NH",
+    "zip": "53835"
+  },
+  "contact": {
+    "phone": "(775) 796-4194",
+    "servicePhone": "800771568"
+  },
+  "birthday": "1985-01-11T01:56:15.001Z",
+  "ip": "183.115.194.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Pa womku laf ren nipow ma sez navlu ofujemoj kozlo fam nucvudzit iluregeh ofilale rafe big ap. Gifo weroz gugu hiklah dabwun ror ebtodmel git hog er ho nuli esi deren kuwnof hucuset tauvowo verdo. Mugu rebasdug zev tuswap ejcanu fafrofu ucozebzel ed minin kozickug pinwe nascu otti sapmucem jo egleje taki sal.",
+    "bio": "Oj vacurgek womjaeb pe aconiofi tode ocaciihe pipimbal dar cu zakiv te al pomihzan adrubte zaicuci dalaope. Wojgopa aroola wi miiviug ej cejrepi utavicu gejcodape wic kuratre vecfajuh fa kemuzom esaro. Cocor nid fuvfu nube ge hekouso owze te olusuwiz laralit jabsu cuceb dam ka utusupjiz lov. Kew efa sufibe nisu uri bedwu cipak mar gen ikze supa mena didifak budte."
+  },
+  "apiKey": "2752f9a5e5b1164659ba61020b439050ffb08a6b6be2d1e014c0db9cc4906d76",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
