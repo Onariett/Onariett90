@@ -1,0 +1,26 @@
+{
+  "name": "Janie McGee",
+  "age": 40,
+  "address": {
+    "street": "Owfa Path",
+    "city": "Ekosme",
+    "state": "MD",
+    "zip": "40561"
+  },
+  "contact": {
+    "phone": "(813) 471-5650",
+    "servicePhone": "800171489"
+  },
+  "birthday": "1982-04-17T17:56:17.780Z",
+  "ip": "115.228.230.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Mu miv loep itu awvezker izo esut emecoh ag zeg diwedel uvadov cel riz. Wijehjef ne na ma zubra so lobceoli tilazobu nocun ragme zuvwol ul punof esi gosiheru cek ligda. Vujdu orugiknop vuw icjehi sukelke rakzag vu hokvemtup hoekupo volpi amoga boztepoh gi zim. Okkapobi zapumbu bahibo zisle tuvkejas haemu co mefbu vevlihhi rowrep ze vasmak. En bubo wudlid semiupo ohuva co albeb pielanud ur amevoba woati vo jihi zefwawo.",
+    "bio": "Veow le ruwo kazhaj conas fakko hefzaf dec husnihva guj salaz sibzopziv malriibi cej. Rohlimas sup jecteoz miedjab udcimka bur vezok fop hotgon rem ohazehad wecpefu. Jug suw le ihunemez cis miepwo pevejoha ugkit suuglec essazaw dafafda ohaza me vu gaho kuku osifhuk evitora. Im hi tiho ihi pul usbopi cokaz wovsikoh za hoj wafzised limwuhkes. Benedciv toke om endas metel owoga eze tozo agha hu ropfuwmih ogupnag."
+  },
+  "apiKey": "3c53c8e77824cff7e0d874530fbf4c8b1c953d285170a9b9de2e98376032516c",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
