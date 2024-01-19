@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Douglas",
+  "age": 37,
+  "address": {
+    "street": "Firir Street",
+    "city": "Igkudpan",
+    "state": "IA",
+    "zip": "24866"
+  },
+  "contact": {
+    "phone": "(883) 674-4676",
+    "servicePhone": "800155628"
+  },
+  "birthday": "1978-09-10T18:27:39.873Z",
+  "ip": "84.50.252.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Hos sakuje owedonine rortusira moasa nid migin sames ce boful mekiemu hefenib eredew pupvapud raje vavigzag. Wo ruhacno maku hed zi pob nuz pul pofvirsab raka ma ni. Ti kakoh ojzagoz lo jer iwone duuj makov ola magivi ne dizugko abna zo jikho robcup. Saz bibzizor bicejvar gapehus suomi hu sa beip tuk gaseb vid esule bo honegjo confubbu.",
+    "bio": "Mimog nukepek heag af baclesci hi firzole giwa fah descew igdo cikawgi rawjelot ni. Zilgihnet molu hoti azale opbon jefocdo siaw dir tascigul awebu sotmu jufo ubmokwa pa imnubow. Ucsi egojezoma natidaso gi nukcig wodez jacordu giz abonef waize aziba do mona cep huwo pugelu gaswujas podtis."
+  },
+  "apiKey": "6b0e62ee12049d6f28a902f5c6588493219a0f20202c73cf0b34e858183d85c9",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
