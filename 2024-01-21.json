@@ -1,0 +1,26 @@
+{
+  "name": "Marc Little",
+  "age": 46,
+  "address": {
+    "street": "Agisol Court",
+    "city": "Toporpu",
+    "state": "RI",
+    "zip": "99204"
+  },
+  "contact": {
+    "phone": "(259) 553-6581",
+    "servicePhone": "800881449"
+  },
+  "birthday": "2005-05-06T21:06:39.115Z",
+  "ip": "99.63.88.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Na pes panavvab foconi ufoti zifuuh juvu he wawe wa va letcogi. No oda asomo jo sok caglaguw miute pikmiv hozi dihugtob tip irabeeg ij ofi. Zotudfo uvaf os koin woez jofek vuleba of bedgir nelizo negcavhez golfefe nak cazin nuswo.",
+    "bio": "Ibsoafu na cunivu ku ifukah ta tazaw beguk nupoh iflu rok ger peibauma si nuknuj. Jah zaavido hic jivcu pe faamcak fil vi ta kejrabmi dedkih uk. Limenibe ul si panagbu di muj vognajuc umba awekejado covu wa ojetic. Kepodda vi mipew pu boawo va ebaefbo jini ogfin ebuzuc uloosu ilomunded evmej bidapruj. Favo hurfa meelufo ravnecon mu ipoez upjeja fe gezez taochal liwesfa lumobuh mug lag wiellu witgucal. Vi so eflis ro du van dimew hus zep riz wet tu zekga wu pagbupda ege ho jidle."
+  },
+  "apiKey": "bf4683f3ba25f70ced860a2d41dd8690bf0b93135418a2507753cbada80b11f2",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
