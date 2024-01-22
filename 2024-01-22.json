@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Cox",
+  "age": 41,
+  "address": {
+    "street": "Ditom Extension",
+    "city": "Koranwe",
+    "state": "NH",
+    "zip": "81269"
+  },
+  "contact": {
+    "phone": "(526) 286-1160",
+    "servicePhone": "800442946"
+  },
+  "birthday": "1964-10-31T21:55:25.492Z",
+  "ip": "148.206.74.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Jofu rap famelit lu we zupufju poadehod me ermauno lamid kofgimat uhsudjed wogi cehhi kijul cuzu. Men za emkipet bikucu zeuji cuhiape cihegal ajahij lekbezof neawi co mehi ez vip kiru vu. Lukcak du el sefuek piserho jekapmub figowkap vefahel kocakutiw rucdi gag gomawav rib.",
+    "bio": "Poglod owif jihig eg ci kafejsu zej muziiso cala wephuv ha kici. Vomvunaj popejigu campapki komusum ra ceg bu miz fepu ninopar neh vo vutcib nikdov. Guzepi lollej zennanut tu kedize za nu mu wu ad cupuw fuf."
+  },
+  "apiKey": "927abf3ed55ee108d9044800bed3f25dadc29c7a1db44c234b9433c4649284a6",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
