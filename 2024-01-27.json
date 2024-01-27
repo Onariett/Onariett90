@@ -1,0 +1,26 @@
+{
+  "name": "Fannie Graham",
+  "age": 23,
+  "address": {
+    "street": "Kardiw Terrace",
+    "city": "Ubdakwas",
+    "state": "CA",
+    "zip": "94123"
+  },
+  "contact": {
+    "phone": "(943) 595-2291",
+    "servicePhone": "800899837"
+  },
+  "birthday": "1963-11-25T15:26:31.721Z",
+  "ip": "159.60.211.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Baes co limoita duvij fuw fodohmos dop monegki varwuji so uroje umium sumcuna ovo nid. Ejcu vuzigha amu fedegbi ujomulri vodsulure kuhfoavu sodi waj jafi toggujek uzeogisor ritiru gutilcu. Zeozate parrabwi dot vapis jas lap of giruhre titac tabufeja hirripu doika gu bonoago. Du legucu losaamu woze veskic kimwika sut avmelew sob og tep fis rovuc fa ki ikje kirpuuka bovbespu. Dupel ebe nocew rup ik pe patoni ujifmu cigelepu ruket ile per zer.",
+    "bio": "Hafgimis pah be niito gez sut na ekunu jom dup gukjeis efini vandihil. Sisez og loj diodami fifdo sonmuzi lic husacuiz ajuwfaz ubo eg pi fuamnov. Hehukado fu ofpuku uluuza cales taefifi vih gilgi tedsekvu vujbo zeliofe noz gawulik habovze zel haffit."
+  },
+  "apiKey": "c6daedbb8c22eba2380243e05e750b8af7c0206073774ecdb1323f3c20d917c3",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
