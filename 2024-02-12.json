@@ -1,0 +1,26 @@
+{
+  "name": "Steve Hicks",
+  "age": 29,
+  "address": {
+    "street": "Tobu Street",
+    "city": "Ralubtiz",
+    "state": "UT",
+    "zip": "80281"
+  },
+  "contact": {
+    "phone": "(577) 455-8548",
+    "servicePhone": "800793192"
+  },
+  "birthday": "1970-02-06T21:20:55.503Z",
+  "ip": "187.80.204.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Dirlelmi tacmu sivfi duleebo ligsahu ro avudut mam fehawpad dunakkil aj ho. Un ace ti wu ifze wupvimhim rab de vom milwanhol huc te. Wil boatiip sac eleziz iwsarer sufriga fe tetnawub puevica nehpob kiwuken hapa ambikzo wamzotvaw pawisdu jahrij. Fi revow geb weceso we got nutij olo ancodka moicre mim evovaeja lih id. Mafraj nug egibeb ka zok bin cegjafag of bi buiheh cekceshu sajec udke kag wu lazpaalu ewlaz.",
+    "bio": "Cu dego oj du pedisip dol fi zi ofujathu neha nub zohabaso. Bisosmuh nuvuz feble em usod epbotizi hakfiuto pul ibo ehoecaba dotu num enu zavoz. Femfabvon laswoon jurosfe ratalosa widviveh peh punafus ofo falkasifo uknod uronufo copre iseijopoj."
+  },
+  "apiKey": "2a4ca7a899636b327c77e3d538b4f9c9cadb6e5e5007e14efe2a6f2d89300ca8",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
