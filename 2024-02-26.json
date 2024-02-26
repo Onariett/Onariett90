@@ -1,0 +1,26 @@
+{
+  "name": "Jack Brown",
+  "age": 43,
+  "address": {
+    "street": "Zeke Point",
+    "city": "Ohowovup",
+    "state": "MN",
+    "zip": "50793"
+  },
+  "contact": {
+    "phone": "(951) 609-4683",
+    "servicePhone": "800776698"
+  },
+  "birthday": "1988-11-05T15:00:56.135Z",
+  "ip": "12.65.45.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko tasbivu fec vabiiro omekiksu tosheop veclo jekev juwded dobwa esiacgub ludabi cah nawol gos mo furumeat zub. Rufjip jeda osavo fuz vuje zec zozew vebepesi ki bakikiibe abju kos taghuv. Elaloh ba ruwhi lis gosunzi uje uwehov tus nec tu lod mu cud lep iho wileh zipnonnac. Aw mispiwor lif viswat wambibiz muf arafel wenbi cebe wifowsu futeg ebo ozagesuf fuwsapve du hepta walerah.",
+    "bio": "Pe di ir konaj opa pu ti ci ukgarha bor lojit kes ozipizuk. Gez miif tamnuj ci ji sofopuw ewukuomi taklediji luh zohgoan zerfik so. Us ziuh vipzet od tulati sanwu fawe tuj eco sokik caap sigje."
+  },
+  "apiKey": "c6065473bc06c288d4f52dff359a2b774e86f2af5b597170a7a55a7579b6eb72",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
