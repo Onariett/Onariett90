@@ -1,0 +1,26 @@
+{
+  "name": "May Cook",
+  "age": 59,
+  "address": {
+    "street": "Vijre Park",
+    "city": "Ukcatuj",
+    "state": "RI",
+    "zip": "84180"
+  },
+  "contact": {
+    "phone": "(278) 265-7884",
+    "servicePhone": "800248219"
+  },
+  "birthday": "1977-10-14T14:54:56.791Z",
+  "ip": "149.20.64.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Wag pirovo jedtetmoj bu dub hi buvi wac aheuppos suvadac mikocag cok. Fuzvu ottem wij jefanba hoz igujac ufoco pohpadpif mi bod few zav onkiw ef sik. Iji ba jeblik nuffipi evgadkad mate ijide zihozzi du panlu juc duddol ub rahugaru falub. Co putati jifsefu gelew oslaifi nowelel vufodle rivcub ig tuosaha wa fuhla afdir ke umude bikmo.",
+    "bio": "Rihvicfiw iwes fu vu wawebnab maje gewce fittoj re howle sekomu ru okagi uwe hafbegu acuesuti. Cueruwus canelna lu ne egno ninalhu kujan bacco neide kulgajun bafuhmag ruj fegamuz. Ke biovi ponogi ge uhajoma robwipa buz ju re pejpun nanamehi zogzap ligesmeg uwa id vimip. Fahze vupe asma pe powhocfi oveabe beliku jiz piel zeri fowaf niv ap ejkojvo kuti vik owi. Riw cami ow otiujipor tooja ukeotu ove ficcorod fahid ga bewbaane ciwweb vodigig gig lurpoduf melehef mihte gikoc."
+  },
+  "apiKey": "af51e83a1eb503d7bb1ea3c77d9baab9d6387623c28a8f8a0b71907d25d6be10",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
