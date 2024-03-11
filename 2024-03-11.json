@@ -1,0 +1,26 @@
+{
+  "name": "Dora Walker",
+  "age": 65,
+  "address": {
+    "street": "Zahnu Drive",
+    "city": "Daaceco",
+    "state": "CA",
+    "zip": "45651"
+  },
+  "contact": {
+    "phone": "(669) 203-3147",
+    "servicePhone": "800913186"
+  },
+  "birthday": "1963-02-16T04:16:35.079Z",
+  "ip": "206.175.171.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Anogu vil il fiaz gacnoczoz dowo ziv jes be nujofte so lehce biguj. Cepfezvo pirunu tociz niof his viju me so baze vec rac jimod bi oc nimafa cat. Ub ewetueli lupioti pop zaevowa pi elipagi rufelos vu metit lipgapoh udawa vezazo zuci uzge em ruoj.",
+    "bio": "Dut dowvow mogsucfo neh seragu ja cawe ezrukse fernuttug ciguk naj boka bewo buhcutbob kultekat tumuhi ruv siweni. Tuh meg jonuv mevioko ihobusme cica avwu lavneral sup ne cuinopo ucora. Bacej totce tilo kumup bejad surcimove utuhictul imbuvif teepu ka jel cakora mitrifo wowukic uvemacoc zupfos. Hahsumom zuw bab ced revjiwdoj ohaitues biv reminum wac tif ozsusa ofuuhko roh ve lu uzseh."
+  },
+  "apiKey": "52de0faea726cd4a70cd4015dbfd5e760071998c8eef5d249d2888948afcf24d",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
