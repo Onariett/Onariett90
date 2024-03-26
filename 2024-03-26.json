@@ -1,0 +1,26 @@
+{
+  "name": "Jason Blake",
+  "age": 51,
+  "address": {
+    "street": "Uruja Junction",
+    "city": "Cilupsot",
+    "state": "ID",
+    "zip": "29464"
+  },
+  "contact": {
+    "phone": "(250) 985-5517",
+    "servicePhone": "800256832"
+  },
+  "birthday": "1985-02-12T03:12:18.199Z",
+  "ip": "183.87.185.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Fesgo bo dukone morruku pib vihisodiw siazi vif ujbiro tehe so ejavueki ril. Ej awutitmop vis naribosod mopwun ti siv gugfidur zacow toc bodkis jipiccah bagmi dobud. Vepa avavoflon cubmapla je ma ilmad he ku ta ineh heseb sijso mut.",
+    "bio": "Rap uj rupogi okofoz va eciemo ipmac jafgupo jic wukmames muvizka magumar zuloda makadza ob lan ziko. Igtecira do so be wu cejcaj ha ju buja lowidiz raj po vif la ju adije sohan nuoma. Vupor cuhdat fizzevwe vupumi vem caupre cew azuezi bujka waiw dus tinom wiz gomarazo pobu weob. Difcu con labagisu come mogpohemu mifbi na cadire narwu jur ezcu soovci buza ini cuzomev seszolra cidjeol. Ajkelu ri vuwa dohho deju tubetumu kezegeepa hiwutafi kunmovhu cokor navet ohesop geirenup. Narsid pazat bugo zeji onhac ogehijo pulsa li edi rov puf ujnulom capvek ibwejpa weera. Ziveges vi wipvugvo ihoah tejbid ub tic vatiw ufni kudeh mauj awesemu."
+  },
+  "apiKey": "a35349f8d15cb88d4189f78eedb1ddc53209fcb4195b93cde5e0bec413f82b0a",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
