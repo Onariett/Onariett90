@@ -1,0 +1,26 @@
+{
+  "name": "Eric Patterson",
+  "age": 18,
+  "address": {
+    "street": "Anaro Key",
+    "city": "Kegwagam",
+    "state": "GA",
+    "zip": "46039"
+  },
+  "contact": {
+    "phone": "(353) 686-6976",
+    "servicePhone": "800734591"
+  },
+  "birthday": "1992-11-07T20:17:01.049Z",
+  "ip": "107.56.9.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Babeus ebe zotifi uke ajre zalbic avfun loziis vaawanih va sev ok ibpizle hoki ut humijon sodecfaw pif. Wuwaw pajukez hocuw fi hu kac dah ruse tado givzi nikeb apeha ibsiva wedkolij azewu dozulu. Ikukazuke vosu cuvri noli wuiwudim kamfu zegnauz rej guk cuofi danalu guca ak zo amuew pucba lamak eko. Jo gez pog kigelso bawu cafgitise nizlok jil nantat tu dulowu imvawov.",
+    "bio": "Omsif tonceg ar lejebla asu ef wevsasoza wiz kazbub toog nelik bocni duhgeega. Pilledwa caob weslec lowvak uhe ubud esa utwiris issot ata pig siw gus joddap gosipaw fen gadrutano zuga. Vajigu itilohag tavul mawoge pinullij mifodoid vahra as lokwabtiv mekav wi pim go bevriv zamponoro oti uz. Vah notvog paz toma badazmap ricucsez le kur vi huj cupkabhi teki. Metpip olabefur ab nuza vu deebize be pamzej basa vebwineti cuheppir hub abo ceecmi wijjez zovivtif."
+  },
+  "apiKey": "621e8c82509baf9c4515ea4f6937283294c06e7f3fe5e4cbced8468bd971e8cc",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
