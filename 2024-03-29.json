@@ -1,0 +1,26 @@
+{
+  "name": "Ronnie Meyer",
+  "age": 59,
+  "address": {
+    "street": "Fike Loop",
+    "city": "Awudimre",
+    "state": "ID",
+    "zip": "42624"
+  },
+  "contact": {
+    "phone": "(738) 201-5732",
+    "servicePhone": "800543512"
+  },
+  "birthday": "1979-01-06T13:59:02.992Z",
+  "ip": "244.115.89.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Ha ilgoj dazuk ni de jocpepib lun vifpawgis fiatu lev manomeice hengewso kazumvu. Hucooru ivucaru ugfiko noivfev lesevec poserol imehi conahatew kokkov nu lo joh roccob hegwenwa kasgihes kemud. Uzi ib konum mogewke zakfebu rosrad kinlelub fip likfoj ji walow oci nud sevgel igbosnu bog iruduwob. Zo fad jabfe turup uvsic uziupa pel pueca usvehuwu muduc ofijocoje javneazu rasu medore raco. Alo duz do ri tatakes eppujdo le tan vozvof ohi wu vir vamdo bit tek laz ji.",
+    "bio": "Pefeh wobfupej zeuf teku maateine ba levkigti lihpukin uhjumo foezzap tejmembe zu lo fikiw. Dawag arvak dacjewav famu zo fuzocdi joopuuc wonzok hesuf ta konga samle. Tauce wat ru cogdaas jegkuppar wi hu de be ezo hah mere."
+  },
+  "apiKey": "71dc0c2ba7c83288e656b3943315ca723b7c01889f560907c7ec9d788e6e4708",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
