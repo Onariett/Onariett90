@@ -1,0 +1,26 @@
+{
+  "name": "Ernest Yates",
+  "age": 60,
+  "address": {
+    "street": "Zipid Square",
+    "city": "Roabal",
+    "state": "RI",
+    "zip": "68585"
+  },
+  "contact": {
+    "phone": "(575) 333-3983",
+    "servicePhone": "800585848"
+  },
+  "birthday": "1973-08-10T06:34:44.917Z",
+  "ip": "160.27.58.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Uneweuf vif sowci jiag puenu ru ne bohaj roj ratnotdaf rijlebnev piucu luczuggos it vegbujuh lasgu. Refcahu pudaid kezvicun wun wace nopubja ihafo adecis kegboze ezjardo hiz evsug. Azugibfon pukusgeb co zutuhade cesucica cunetif irma ekapad dupiabo ufojute komial pihohje sag sih ag usani.",
+    "bio": "Be gu emduz sejeute li lokifad go poh ukecuron he de fibnigtat koacza sonike fehecsu wo uzunu fukuj. Bodweja zubvaus momnow cujwuder ofe vub nu mud mugcek ahamizu fev rolto. Pi bi po fovasi jocmat ijlowok han keg zujirgar ocjan liduc je dej supipa emo egcidibo. Kubezo bavekak la fo gior adrafur li ren hus tofojwuf lidapo ut."
+  },
+  "apiKey": "4ec3903385d759aeecd071d6604ce8e5212e1c861edec2637211c68f2f933d42",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
