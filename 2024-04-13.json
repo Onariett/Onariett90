@@ -1,0 +1,26 @@
+{
+  "name": "Maud Graves",
+  "age": 25,
+  "address": {
+    "street": "Bofe Square",
+    "city": "Joskujes",
+    "state": "KY",
+    "zip": "88242"
+  },
+  "contact": {
+    "phone": "(921) 345-7333",
+    "servicePhone": "800357743"
+  },
+  "birthday": "1992-12-07T14:55:50.071Z",
+  "ip": "95.116.212.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Nig ojiezu emaekwal zi bojgibur wet zof ti ebu mizicu rer jova oje wakiaza la guse. Pokoamo purbijug lis fug gubgumir vohhefbuz amaonok mad upe evofo nijit pojduve nohwatad zon epucilupa lorag oleka. Kah navim kumaz uznodgeg uzi pedtewnas zav burfetog teruke ligot idlumefi otu. Ecoectep vajuz visoceg wap ahis keb zilzi vo ugirewzem zare bas wohjug letmi puvvuwu.",
+    "bio": "Bo ri pofonu avtoloh wewees nova calmeh gemtesu akovo me ciiba gicegac atnu rif eh uk. Siej des ekupuko ju daj hohas okucu emata cot aki busmu elu. Jihecokaf rigi nokodi voro ino jit jugredo sejle zobhe siel ih vu rainaeju zu mopvi."
+  },
+  "apiKey": "ba7d8a28cdf2db9dc410cfc3a6b64c72499e1e8af3d2e8aa3b51f23edff31863",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
